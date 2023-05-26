@@ -1,4 +1,4 @@
-## OpenRedireX : Asynchronous Open redirect Fuzzer for Humans 
+## OpenRedire : Open redirect Fuzzer
 ![enter image description here](https://raw.githubusercontent.com/devanshbatham/OpenRedireX/master/static/banner.PNG)
 
 ## Key Features : 
@@ -29,7 +29,6 @@ $ python3.7 openredirex.py -l urls.txt -p payloads.txt --keyword FUZZ
 ```
 ## Example : 
 ![](https://raw.githubusercontent.com/devanshbatham/OpenRedireX/master/static/example.PNG)
-### Credits : 
-Thanks mate [@NullPxl](https://twitter.com/NullPxl)
+
 
 
