@@ -110,18 +110,20 @@ def main():
 if __name__ == "__main__":
     if os.name =="nt":
         os.system("cls")
-    banner = f'''
-{bcolors.OKGREEN}
-  _____       _           _   _           _ _   
+    banner = """\u001b[36;1m
+   _____       _           _   _           _ _   
  |_   _|     (_)         | | | |         | | |  
    | |  _ __  _  ___  ___| |_| |__   ___ | | |_ 
    | | | '_ \| |/ _ \/ __| __| '_ \ / _ \| | __|
   _| |_| | | | |  __/ (__| |_| |_) | (_) | | |_ 
  |_____|_| |_| |\___|\___|\__|_.__/ \___/|_|\__|
             _/ |                                
-           |__/                                 {bcolors.ENDC}
-               {bcolors.UNDERLINE}{bcolors.FAIL}~ BOUNTYSTRIKE ~{bcolors.ENDC}
-'''
+           |__/    \u001b[0m                                                 
+
+
+                          \u001b[32;1m- By Prathameshs, Tejas, Shruti & Atharva\u001b[0m
+
+    """
     print(banner)
     main()
     print("\n \u001b[31m [!] Total execution time                 : %ss\u001b[0m" % str((time.time() - start_time))[:-12])
