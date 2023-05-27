@@ -1,5 +1,5 @@
 ## OpenRedire : Open redirect Fuzzer
-![enter image description here](https://raw.githubusercontent.com/devanshbatham/OpenRedireX/master/static/banner.PNG)
+![enter image description here](https://github.com/prath-10/OpenRedire/blob/main/static/banner.PNG)
 
 ## Key Features : 
 
