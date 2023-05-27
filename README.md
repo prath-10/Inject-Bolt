@@ -28,7 +28,7 @@ $ python3.7 openredirex.py -u "https://vulnerable.com/?url=FUZZ" -p payloads.txt
 $ python3.7 openredirex.py -l urls.txt -p payloads.txt --keyword FUZZ
 ```
 ## Example : 
-![](https://raw.githubusercontent.com/devanshbatham/OpenRedireX/master/static/example.PNG)
+![](https://github.com/prath-10/OpenRedire/blob/main/static/example.PNG)
 
 
 
