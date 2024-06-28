@@ -12,7 +12,7 @@
 ## Usage : 
 **Note : Use Python 3.7+ !** 
 ```
-$ git clone https://github.com/prath-10/OpenRedire
+$ git clone https://github.com/prath-10/Inject-Bolt
 $ cd Inject-Bolt
 Note : The "FUZZ" is important and the url must be in double qoutes ! 
 $ python3.7 injectbolt.py -u "https://vulnerable.com/?url=FUZZ" -p payloads.txt --keyword FUZZ
