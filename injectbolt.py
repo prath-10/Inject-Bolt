@@ -81,7 +81,7 @@ async def redirme(url_list, payload_list, keyword):
 
 def main():
 
-    parser = argparse.ArgumentParser(description="OpenRedireX : A utility to test open redirects")
+    parser = argparse.ArgumentParser(description="Inject-Bolt : A utility to test open redirects")
     parser.add_argument('-u', '--url' , help='URL to be tested')
     parser.add_argument('-l', '--list', help='file of urls with parameters to test')
     parser.add_argument('-p', '--payloads', help='file of payloads')
@@ -121,7 +121,7 @@ if __name__ == "__main__":
            |__/    \u001b[0m                                                 
 
 
-                          \u001b[32;1m- By Prathameshs, Tejas, Shruti & Atharva\u001b[0m
+                          \u001b[32;1m- By Prathameshs\u001b[0m
 
     """
     print(banner)
