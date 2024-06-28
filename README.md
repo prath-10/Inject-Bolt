@@ -12,10 +12,10 @@
 ## Usage : 
 **Note : Use Python 3.7+ !** 
 ```
-$ git clone https://github.com/devanshbatham/OpenRedireX
-$ cd OpenRedireX
+$ git clone https://github.com/prath-10/OpenRedire
+$ cd OpenRedire
 Note : The "FUZZ" is important and the url must be in double qoutes ! 
-$ python3.7 openredirex.py -u "https://vulnerable.com/?url=FUZZ" -p payloads.txt --keyword FUZZ
+$ python3.7 openredire.py -u "https://vulnerable.com/?url=FUZZ" -p payloads.txt --keyword FUZZ
 ```
 
 ### For single URL : 
